@@ -49,3 +49,6 @@ Key visualizations were created using **Matplotlib** to highlight important tren
 
 ## Conclusion
 This analysis provides valuable insights into supermarket sales patterns, customer behavior, and operational trends. The findings could help optimize product offerings, promotional strategies, and customer engagement at different times of the day or week.
+
+## Reference
+![Sales Visualization](path/to/your/image.png)
