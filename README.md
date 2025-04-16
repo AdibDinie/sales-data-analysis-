@@ -52,3 +52,8 @@ This analysis provides valuable insights into supermarket sales patterns, custom
 
 ## Reference
 ![Sales Visualization](image-1.png)
+![Sales Visualization](image-2.png)
+![Sales Visualization](image-3.png)
+![Sales Visualization](image-4.png)
+![Sales Visualization](image-5.png)
+![Sales Visualization](image-6.png)
